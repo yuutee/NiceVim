@@ -15,4 +15,4 @@ This is the package for `Sublime Text 2` and `3`, and give you the **NiceVim** e
 To use NiceVim, open Command Pallet and select `NiceVim` or `Ctrl+Alt+V`.
 
 # Note
-**Don't use this to the important files before take a backup.  I don't take any responsibility.**
+This is a joke package.  **Don't use this to the important files before take a backup.  I don't take any responsibility.**
